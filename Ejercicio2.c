@@ -1,5 +1,5 @@
-/* Alfonso Francisco De Abiega l'Elgisse
-  clase 5 ejercicio 2*/
+/*DAYANA MONSERRAT RIVERA MONTES DE OCA
+LABORATORIO PRÁCTICA9*/
 
 #include <stdio.h>
 int main ()
